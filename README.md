@@ -9,6 +9,9 @@
 
 **Some Status of Me**
 
+![Innnsane:](https://count.getloli.com/get/@Innnsane?theme=gelbooru)
 ![Innnsane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Innnsane&show_icons=true)
+
+**Most used Language**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Innnsane&layout=compact)](https://github.com/Innnsane/github-readme-stats)
